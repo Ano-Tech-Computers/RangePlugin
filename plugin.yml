@@ -1,0 +1,7 @@
+name: RangePlugin
+main: no.atc.floyd.bukkit.range.RangePlugin
+version: 1.1
+website: http://minecraft.atc.no/plugins
+author: FloydATC
+description: >
+        Very basic range limiter
